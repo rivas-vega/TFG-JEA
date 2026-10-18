@@ -5,7 +5,8 @@
 
 **Author:** Pedro Rivas Vega  
 **Supervisor:** Prof. Eduardo Sánchez Karhunen  
-**Institution:** Universidad de Sevilla — Grado en Matemáticas
+**Institution:** Universidad de Sevilla — Grado en Matemáticas  
+**Evaluation:** 10/10 with Highest Distinction (*Matrícula de Honor*)
 
 ---
 
